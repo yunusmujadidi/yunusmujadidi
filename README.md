@@ -1,6 +1,4 @@
 ### Hi there 👋
-https://yunusmujadidi-bert-hatespeech-app-385k6r.streamlit.app/
-https://game-hub-chi-peach.vercel.app/
 
 <!--
 **yunusmujadidi/yunusmujadidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
