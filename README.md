@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 ## Currently learning javascript for fun :)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusmujadidi&layout=compact)
+
+---
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusmujadidi&layout=compact&theme=radical&bg_color=161b22&hide_border=true)
 
 <!--
 **yunusmujadidi/yunusmujadidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
