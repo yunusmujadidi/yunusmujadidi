@@ -2,7 +2,7 @@
 ## currently learning javascript for fun
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusmujadidi&layout=compact&theme=radical&bg_color=161b22&hide_border=true)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yunusmujadidi&layout=compact&theme=radical&bg_color=161b22&hide_border=true&range=last_7_days)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yynoes&layout=compact&theme=radical&bg_color=161b22&hide_border=true&range=last_7_days)
 <!--
 **yunusmujadidi/yunusmujadidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
