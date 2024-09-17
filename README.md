@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 i'm Yunus, currently learning javascript for fun.
-nice to meet you :)
+open to new opportunities and collaborations.
 
 ## main stacks
 
