@@ -22,4 +22,5 @@ open to any opportunities and collaborations.
 
 [![X (Twitter)](https://img.shields.io/badge/-X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yynoes)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://yynoes.me)
+![Profile Views](https://komarev.com/ghpvc/?username=yunusmujadidi&label=Profile%20views&color=0e75b6&style=flat)
 
