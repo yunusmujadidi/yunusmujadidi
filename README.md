@@ -15,7 +15,7 @@ open to any opportunities and collaborations.
 ### wakatime stats
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yynoes&layout=compact&theme=radical&bg_color=161b22&hide_border=true&range=last_7_days)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusmujadidi&layout=compact&theme=radical&bg_color=161b22&hide_border=true&hide=css,Blade)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusmujadidi&layout=compact&theme=radical&bg_color=161b22&hide_border=true&hide=css,Blade,HTML)
 
 
 ### connect with me
